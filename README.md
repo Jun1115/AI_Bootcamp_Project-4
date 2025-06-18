@@ -1,8 +1,10 @@
 # Data-analysis-of-Seoul-public-bicycle
 AI 부트캠프 팀 프로젝트
+-  원하는 주제를 선택하여 그에 해당하는 데이터를 수집해 팀원들과 함께 다음의 목표들을 해결하는 팀 프로젝트
 
 ## 1. 팀 내 역할 (4명)
- - 데이터 전처리
+ - 직책 : 팀장
+ - 데이터 전처리 및 결과 도출
  - 근거 자료(시장 현황, 원인 분석, 해결 방안 등) 조사
  - PPT 제작 및 발표
 
@@ -18,7 +20,13 @@ AI 부트캠프 팀 프로젝트
 ## 3. Skills
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-## 4. 팀 프로젝트 진행방식 및 자료 출처
+## 4. Feedback
+- 데이터 분석 첫번째 팀 프로젝트는 데이터를 지급받아 시작했기 때문에 어느정도 시간적 여유가 있었지만 두번째 팀프로젝트는 주제선정ㆍ데이터수집부터 시작했기 때문에 효율적인 팀 커뮤니케이션이 필요했습니다.
+- ArcGIS Pro 모델링 없이 위치 선정
+- **Instructor Feedback**: “자료가 시각적으로 훨씬 보기 좋아졌어요. 하지만 여전히 분석 내용은 부족한 듯 보입니다. map과 관련한 툴을 활용해서 따릉이 정류장 등 위치를 표기해주신 것은 좋았어요. 다만 분석적인 내용, 모델 등이 들어가지 않아 아쉬웠습니다.”
+**Score:** 9/10
+
+## 5. 팀 프로젝트 진행방식 및 자료 출처
 
 ### 주제 선정 (투표 방식)
 
